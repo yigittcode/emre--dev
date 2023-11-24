@@ -1,0 +1,19 @@
+body {
+    background-color: aqua;
+}
+
+#bresenhams-line-algorithm-sketch {
+    width: 202px;
+    margin: auto;
+}
+.algorithm {
+    text-align: center;
+    margin: 100px;
+    
+}
+h1 {
+    color: red;
+}
+.sketch-area {
+    background-color: aliceblue;
+}
